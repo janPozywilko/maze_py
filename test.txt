@@ -1,0 +1,10 @@
+[
+    ['lud', 'ud', 'ur', 'lu', 'ud', 'ud', 'ur', 'lur'],
+    ['lu', 'urd', 'ld', 'rd', 'lu', 'urd', 'ld', 'r'],
+    ['l', 'ud', 'ud', 'ud', 'd', 'ud', 'ud', 'rd'],
+    ['lr', 'lu', 'ud', 'ud', 'ur', 'lud', 'ud', 'ur'],
+    ['lr', 'lr', 'lu', 'ur', 'lr', 'lu', 'ud', 'r'],
+    ['ld', 'rd', 'lr', 'lr', 'lr', 'l', 'ur', 'lrd'],
+    ['lu', 'ud', 'rd', 'lrd', 'lr', 'lrd', 'ld', 'ur'],
+    ['ld', 'ud', 'ud', 'ud', 'd', 'ud', 'ud', 'rd']
+]
